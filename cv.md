@@ -9,3 +9,11 @@
 #### Summary:
 
 I started learning HTML and CSS with Codecademy & htmlAcademy courses. I went through HTML and CSS courses there. Later, in December 2019 I got to know about RS School. I am self-motivated and self-educating person. I obtain new skills quickly. Though it took some time to understand coding process. I am interested in applying everything I’ve learned so far. I found it exciting and challenging. My aim is to become a professional front-end developer.
+
+#### Skills:
+
+Novice frontend-developer. Confident knowledge of HTML, CSS. Know how to use Git.
+
+#### First code examples:
+
+1.[JSFiddle](https://jsfiddle.net/tatiana_mnk/mz1rdgvf/)
