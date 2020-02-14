@@ -25,3 +25,21 @@ Novice frontend-developer. Confident knowledge of HTML, CSS. Know how to use Git
 * Codecademy (Since December 2019 - now) - [Codecademy](https://www.codecademy.com/)
 * HTML Acacdemy (Since December 2019 - now) - [HTMLAcademy](https://htmlacademy.ru)
 * Javarush: CS50 course (Since November 2019 - now) - [JavaRush](https://javarush.ru/me)
+
+#### Other Skills and additional education:
+
+ * English: Level B1 (according to the test results at the Epam Trainig Centre)
+ * CIDR — coworking and independent design room: Digital design course (April - June 2019)
+
+#### Personal Skills:
+
+ * self-motivated
+ * attentive to detail
+ * open to communication
+ * honest
+ * hard-working
+ * good team working skills
+ * accurate
+ * quality-oriented
+ * stress-resistant
+ 
