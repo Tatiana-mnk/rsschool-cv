@@ -17,3 +17,11 @@ Novice frontend-developer. Confident knowledge of HTML, CSS. Know how to use Git
 #### First code examples:
 
 1.[JSFiddle](https://jsfiddle.net/tatiana_mnk/mz1rdgvf/)
+
+#### Education:
+
+* Minsk State Linguistic University. Bachelor Degree: Linguist (English and Spanish languages) (2010-2015)
+* The Rolling Scopes: «JavaScript/Front-end» (Since February 2020 - now) - [RollingScopes](https://school.rollingscopes.com/)
+* Codecademy (Since December 2019 - now) - [Codecademy](https://www.codecademy.com/)
+* HTML Acacdemy (Since December 2019 - now) - [HTMLAcademy](https://htmlacademy.ru)
+* Javarush: CS50 course (Since November 2019 - now) - [JavaRush](https://javarush.ru/me)
